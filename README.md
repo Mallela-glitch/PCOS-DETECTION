@@ -1,4 +1,8 @@
 PCOS Detection Using Ultrasound Images
+
+
+
+
 This project develops a deep learning-based classifier to detect Polycystic Ovary Syndrome (PCOS) using ultrasound images. The solution is built with TensorFlow and Keras, leveraging VGG16 as the base model via transfer learning. Images are processed and normalized using OpenCV. The dataset is downloaded via Kaggle API.
 
 
