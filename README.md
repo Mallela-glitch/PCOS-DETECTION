@@ -2,6 +2,8 @@ PCOS-DETECTION
 This project uses transfer learning with the VGG16 model to classify ultrasound images for Polycystic Ovary Syndrome (PCOS) detection.
 It is built with TensorFlow Keras, OpenCV, and trained on the PCOS Detection using Ultrasound Images dataset from
 [Kaggle](https://www.kaggle.com/datasets/anaghachoudhari/pcos-detection-using-ultrasound-images).
+
+
 🏆 Project Goals
 - Build an AI model to detect PCOS from ultrasound images  
 - Use VGG16 as the base model (transfer learning)  
@@ -9,6 +11,8 @@ It is built with TensorFlow Keras, OpenCV, and trained on the PCOS Detection usi
 - Save the trained model  
 - Create a simple inference script to predict new images  
 - Upload project to GitHub for sharing
+
+  
 📂 Project Structure
 PCOS_Detection_Project/
 ├── pcos_detection.py        # Main model training script
@@ -23,6 +27,8 @@ PCOS_Detection_Project/
         ├── test/
             ├── infected/
             ├── notinfected/
+
+  
 *Requirements
 tensorflow
 opencv-python
