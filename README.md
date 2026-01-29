@@ -20,7 +20,7 @@ Project Goals:
 - Train the model with high accuracy  
 - Save the trained model  
 - Create a simple inference script to predict new images  
-- Upload project to GitHub for sharing
+
 
   
 Requirements:
